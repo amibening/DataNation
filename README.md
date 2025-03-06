@@ -1,7 +1,7 @@
 # DataNation
 Cardano - Turning Dormant Data into Business Assets
 
-Please note - the initial project draft WhitePaper and pitch deck are saved as PDFs in the docs directory. 
+Please note - the initial project draft WhitePaper for DataNation saved as PDF in the docs directory. 
 
 ## DataNation Smart Contract Design Outline
 
